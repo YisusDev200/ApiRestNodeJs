@@ -1,6 +1,0 @@
-fly.toml
-http.http
-/node_modules
-Dockerfile
-.env
-.dockerignore
